@@ -19,7 +19,7 @@ Modelo Banco de dados
 ```
 * Após Executar, Ler -> A arquitetura está no documento "Arquitetura BI.docx"
 * A primeira parte do Projeto está no Notebook : Pipeline.ipynb e conexao.py 
-* O Arquivo .pbix contém os gráfico construídos e o arquivo "Análises Telas.pdf" contém as telas construídas do PowerBI.
+* O Arquivo .pbix contém os gráfico construídos e o arquivo "Análises.pdf" contém as telas construídas do PowerBI.
 * Ler -> A análise de dados estão no documento "Análise de dados.docx"
 
 ## 2º Parte
